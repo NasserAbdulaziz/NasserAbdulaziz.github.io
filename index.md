@@ -1,34 +1,48 @@
-# Hi, I'm Nasser Alwulayi
+---
+layout: default
+title: Nasser Alwulayi | Cybersecurity Researcher
+---
+
+# Nasser Alwulayi
 ### Cybersecurity Researcher | Network & Cloud Security Analyst
 
-I am a cybersecurity specialist and final-year student focused on **Network Defense**, **Cloud Security Architecture**, and **Applied Cryptography**.
-
-I focus on **applied research**—building practical defense tools, analyzing live network traffic, and documenting vulnerability patterns. My work bridges the gap between theoretical security models and practical infrastructure hardening.
+*Riyadh, Saudi Arabia*
 
 ---
 
-### Technical Portfolio
-My research is organized into three core repositories:
+### About Me
+I am a cybersecurity specialist and final-year student focused on **Network Defense**, **Cloud Security Architecture**, and **Applied Cryptography**.
 
-| **Network Defense** | **Cloud Security** | **Applied Cryptography** |
-|:---:|:---:|:---:|
-| Traffic Analysis, IDS/IPS, Firewalls | AWS/Azure Hardening, IAM | PKI, Encryption Protocols |
-| *Focus: CCNA, Wireshark, Snort* | *Focus: Terraform, Splunk* | *Focus: Python, OpenSSL* |
+My work bridges the gap between theoretical security models and practical infrastructure hardening. I focus on **applied research**—building defense tools, analyzing network traffic, and documenting vulnerability patterns.
+
+---
+
+### Research Focus
+*Currently conducting research and developing tools in the following areas:*
+
+#### Network Defense
+* **Focus:** Layer 2/3 Hardening, Zero-Trust Segmentation, Traffic Analysis.
+* **Tools:** Cisco IOS, Wireshark, Snort, Nmap.
+* *Status: Active Research (CCNA Integration)*
+
+#### Cloud Security
+* **Focus:** IAM Policies, Container Security, Infrastructure as Code.
+* **Tools:** Terraform, Splunk, AWS/Azure.
+
+#### Applied Cryptography
+* **Focus:** Public Key Infrastructure (PKI), Encryption Protocols, Python Implementation.
+* **Tools:** OpenSSL, Python (Cryptography Library).
 
 ---
 
 ### Technical Stack
-* **Languages:** Python (Security Automation), SQL, Bash.
-* **Network Defense:** Cisco IOS, Wireshark, Nmap, TCP/IP Suite.
-* **Security Operations:** Splunk (SIEM), Burp Suite, Metasploit.
-* **Cryptography:** RSA/AES Implementation, Digital Signatures.
+* **Languages:** Python, SQL, Bash.
+* **Operations:** Linux (RHEL/Debian), Git, Docker.
+* **Security:** Burp Suite, Metasploit, Sysmon.
 
 ---
 
-### Current Focus
-* **Primary Goal:** Deepening Layer 2/3 defense skills through advanced **CCNA** network simulation labs.
-* **Latest Project:** *[Coming Soon: Implementing Zero-Trust Segmentation]*
-* **Status:** Open to opportunities in Network & Cloud Security.
-
----
-[🌐 Portfolio Site](https://nasserabdulaziz.github.io) | [Linkedin](https://www.linkedin.com/in/nasser-alwulayi) | [Email](mailto:nasseralwulayi@gmail.com)
+### Contact
+* [GitHub Profile](https://github.com/NasserAbdulaziz)
+* [LinkedIn](https://www.linkedin.com/in/nasser-alwulayi)
+* Email: NasserAlwulayi@gmail.com
