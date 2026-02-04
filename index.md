@@ -47,7 +47,7 @@ My work bridges the gap between theoretical security models and practical infras
 
 ---
 
-### 📫 Contact
+### Contact
 * [GitHub Profile](https://github.com/NasserAbdulaziz)
 * [LinkedIn](https://www.linkedin.com/in/nasser-alwulayi)
 * Email: NasserAlwulayi@gmail.com
