@@ -6,14 +6,14 @@ title: Nasser Alwulayi | Cybersecurity Researcher
 # Nasser Alwulayi
 ### Cybersecurity Researcher | Network & Cloud Security Analyst
 
-*Riyadh, Saudi Arabia*
+ *Riyadh, Saudi Arabia*
 
 ---
 
 ### About Me
 I am a cybersecurity specialist and final-year student focused on **Network Defense**, **Cloud Security Architecture**, and **Applied Cryptography**.
 
-My work bridges the gap between theoretical security models and practical infrastructure hardening. I focus on **applied research**, building defense tools, analyzing network traffic, and documenting vulnerability patterns.
+My work bridges the gap between theoretical security models and practical infrastructure hardening. Unlike typical academic tracks, I focus on **applied research**-building defense tools, analyzing live network traffic, and documenting vulnerability patterns.
 
 ---
 
@@ -36,13 +36,18 @@ My work bridges the gap between theoretical security models and practical infras
 ---
 
 ### Technical Stack
-* **Languages:** Python, SQL, Bash.
+* **Languages:** Python (Security Automation), SQL, Bash.
 * **Operations:** Linux (RHEL/Debian), Git, Docker.
 * **Security:** Burp Suite, Metasploit, Sysmon.
 
 ---
 
-### Contact
+### Current Status
+**Final-year student seeking Co-op and training opportunities in Network & Cloud Security.**
+
+---
+
+### 📫 Contact
 * [GitHub Profile](https://github.com/NasserAbdulaziz)
 * [LinkedIn](https://www.linkedin.com/in/nasser-alwulayi)
 * Email: NasserAlwulayi@gmail.com
