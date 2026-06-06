@@ -1,31 +1,38 @@
 ---
 layout: default
-title: Nasser Alwulayi | Cybersecurity Researcher
+title: Nasser Alwulayi | CCNA | Cloud Security Architecture
 ---
 
 # Nasser Alwulayi
-### Cybersecurity Researcher | Network & Cloud Security Analyst
+### Cybersecurity Specialist | CCNA | Network & Cloud Security Architecture
 
- *Riyadh, Saudi Arabia*
+*Riyadh, Saudi Arabia*
 
 ---
 
 ### About Me
-I am a cybersecurity specialist and final-year student focused on **Network Defense**, **Cloud Security Architecture**, and **Applied Cryptography**.
+I am a **Cisco Certified Network Associate (CCNA)** and final-year cybersecurity student focused on **Network Defense**, **Cloud Security Architecture**, and **Applied Cryptography**.
 
-My work bridges the gap between theoretical security models and practical infrastructure hardening. Unlike typical academic tracks, I focus on **applied research**-building defense tools, analyzing live network traffic, and documenting vulnerability patterns.
+My work bridges the gap between theoretical security models and practical infrastructure hardening. Unlike typical academic tracks, I focus on **applied research**: building practical defense tools, analyzing live network traffic, and documenting vulnerability patterns.
 
 ---
 
-### Research Focus
-*Currently conducting research and developing tools in the following areas:*
+### 🏆 Certifications
+
+* **[![Cisco Certified Network Associate (CCNA)](ccna-badge.png)](https://www.credly.com/badges/dd89e914-40e2-4a1b-b0d1-29b9140d8532/public_url)
+* *Verification ID: 505019644fc142759dac997b8d2c1d43*
+
+---
+
+### Research & Technical Portfolio
+*My applied projects are organized into three core areas:*
 
 #### Network Defense
 * **Focus:** Layer 2/3 Hardening, Zero-Trust Segmentation, Traffic Analysis.
-* **Tools:** Cisco IOS, Wireshark, Snort, Nmap.
-* *Status: Active Research (CCNA Integration)*
+* **Tools:** Cisco IOS, Wireshark, Snort, Nmap, TCP/IP Suite.
+* **Labs:** Python Subnet Calculator, MAC Address Changer, Enterprise Topology Hardening.
 
-#### Cloud Security
+#### Cloud Security Architecture
 * **Focus:** IAM Policies, Container Security, Infrastructure as Code.
 * **Tools:** Terraform, Splunk, AWS/Azure.
 
@@ -43,7 +50,7 @@ My work bridges the gap between theoretical security models and practical infras
 ---
 
 ### Current Status
-**Final-year student seeking Co-op and training opportunities in Network & Cloud Security.**
+**Actively seeking Co-op and training opportunities in Network & Cloud Security.**
 
 ---
 
