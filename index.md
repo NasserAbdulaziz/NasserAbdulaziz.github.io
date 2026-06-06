@@ -8,7 +8,7 @@ title: Nasser Alwulayi | CCNA | Cloud Security Architecture
 
 *Riyadh, Saudi Arabia*
 
-<img src="Profile.png" alt="Nasser Alwulayi" style="width: 450px; height: 250px; object-fit: cover; border-radius: 50%; margin-top: 10px; margin-bottom: 20px;">
+<img src="Profile.png" alt="Nasser Alwulayi" style="width: 400px; height: 400px; object-fit: cover; border-radius: 50%; margin-top: 10px; margin-bottom: 20px;">
 ---
 
 ### About Me
